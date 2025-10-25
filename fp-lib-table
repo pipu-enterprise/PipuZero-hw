@@ -4,4 +4,5 @@
   (lib (name "oled_128x64")(type "KiCad")(uri "${KIPRJMOD}/libs/oled_128x64")(options "")(descr ""))
   (lib (name "BQ25176")(type "KiCad")(uri "${KIPRJMOD}/libs/BQ25176/footprints.pretty")(options "")(descr ""))
   (lib (name "BQ2970")(type "KiCad")(uri "${KIPRJMOD}/libs/BQ2970/footprints.pretty")(options "")(descr ""))
+  (lib (name "TSOP75338TR")(type "KiCad")(uri "${KIPRJMOD}/libs/TSOP75338TR")(options "")(descr ""))
 )

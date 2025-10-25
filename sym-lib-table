@@ -4,4 +4,5 @@
   (lib (name "DM-OLED096-636")(type "KiCad")(uri "${KIPRJMOD}/libs/oled_128x64/DM-OLED096-636.kicad_sym")(options "")(descr ""))
   (lib (name "2025-10-25_14-50-22")(type "KiCad")(uri "${KIPRJMOD}/libs/BQ2970/2025-10-25_14-50-22.kicad_sym")(options "")(descr ""))
   (lib (name "2025-10-25_14-37-11")(type "KiCad")(uri "${KIPRJMOD}/libs/BQ25176/2025-10-25_14-37-11.kicad_sym")(options "")(descr ""))
+  (lib (name "TSOP75338TR")(type "KiCad")(uri "${KIPRJMOD}/libs/TSOP75338TR/TSOP75338TR.kicad_sym")(options "")(descr ""))
 )
