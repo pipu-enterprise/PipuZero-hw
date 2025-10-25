@@ -633,7 +633,7 @@
 	)
 	(symbol
 		(lib_id "Battery_Management:BQ297xy")
-		(at 88.9 91.44 0)
+		(at 93.98 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -642,7 +642,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d1e7553-3510-4c08-8d5b-17a5cdbb781d")
 		(property "Reference" "U3"
-			(at 88.9 81.28 0)
+			(at 93.98 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -650,7 +650,7 @@
 			)
 		)
 		(property "Value" "BQ297xy"
-			(at 88.9 83.82 0)
+			(at 93.98 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -658,7 +658,7 @@
 			)
 		)
 		(property "Footprint" "Package_SON:WSON-6_1.5x1.5mm_P0.5mm"
-			(at 88.9 82.55 0)
+			(at 93.98 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -667,7 +667,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/bq2970.pdf"
-			(at 82.55 86.36 0)
+			(at 87.63 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -676,7 +676,7 @@
 			)
 		)
 		(property "Description" "Voltage and Current Protection for Single-Cell Li-Ion and Li-Polymer Batteries"
-			(at 88.9 91.44 0)
+			(at 93.98 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -713,7 +713,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 44.45 73.66 0)
+		(at 49.53 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -722,7 +722,7 @@
 		(fields_autoplaced yes)
 		(uuid "64755340-34b4-49fb-95c2-13be79009c6e")
 		(property "Reference" "BT1"
-			(at 48.26 70.5484 0)
+			(at 53.34 78.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -731,7 +731,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 48.26 73.0884 0)
+			(at 53.34 80.7084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -740,7 +740,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 72.136 90)
+			(at 49.53 79.756 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -749,7 +749,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 72.136 90)
+			(at 49.53 79.756 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -758,7 +758,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 44.45 73.66 0)
+			(at 49.53 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
