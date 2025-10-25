@@ -412,6 +412,26 @@
     [
       "3130e1f2-bde1-4b12-bd54-0e1e50bd36da",
       "Root"
+    ],
+    [
+      "ab6e6673-c97f-4978-8f9b-ae71c723cdfa",
+      "Power Manager"
+    ],
+    [
+      "2c03e026-3c91-4c99-bc42-f7cc422549b7",
+      "MCU"
+    ],
+    [
+      "4b0b0d5d-6833-4670-bedb-8ac2688b21e7",
+      "Infrared"
+    ],
+    [
+      "0d11e703-01d4-42f6-b6d1-2a98bd387429",
+      "Radio"
+    ],
+    [
+      "1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98",
+      "I-O"
     ]
   ],
   "text_variables": {}
