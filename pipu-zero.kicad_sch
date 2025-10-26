@@ -667,6 +667,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 106.68) (xy 165.1 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "512fed22-f71c-4070-be7d-7e5cd6deca91")
+	)
+	(wire
+		(pts
 			(xy 180.34 106.68) (xy 180.34 115.57)
 		)
 		(stroke
@@ -784,6 +794,16 @@
 			(type default)
 		)
 		(uuid "d3b9c366-92de-4c66-a576-f940eedb92e9")
+	)
+	(wire
+		(pts
+			(xy 167.64 106.68) (xy 167.64 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddbc52fa-d9d8-4d85-a95b-d874ec4985fa")
 	)
 	(wire
 		(pts
@@ -1403,6 +1423,26 @@
 				(justify right)
 			)
 		)
+		(pin "IR_RX" input
+			(at 165.1 106.68 270)
+			(uuid "2c214ffb-8346-4782-99f1-a28d221303f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IR_TX" output
+			(at 167.64 106.68 270)
+			(uuid "fbcae756-3a39-4af2-ae09-fc8c60bb23d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da"
@@ -1444,6 +1484,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "IR_RX" output
+			(at 165.1 115.57 90)
+			(uuid "3ea09f25-f8d3-440f-9d5f-6f5ae4a2431a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IR_TX" input
+			(at 167.64 115.57 90)
+			(uuid "aba2201e-0386-4a59-80bc-6fb90434072f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
