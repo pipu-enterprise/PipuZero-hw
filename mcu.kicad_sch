@@ -1572,17 +1572,6 @@
 		)
 		(uuid "139c2998-8b18-4a67-9ee6-d9f66d82175b")
 	)
-	(hierarchical_label "IR_RX"
-		(shape input)
-		(at 180.34 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2b402943-4ebd-4688-be2c-a06314008b4e")
-	)
 	(hierarchical_label "USB_DP"
 		(shape bidirectional)
 		(at 165.1 82.55 0)
@@ -1604,17 +1593,6 @@
 			(justify left)
 		)
 		(uuid "5592a0df-bd6f-4135-887d-21fffb0d43ab")
-	)
-	(hierarchical_label "IR_TX"
-		(shape output)
-		(at 180.34 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "623c1b02-d821-4234-b39d-d0abd49ed4ae")
 	)
 	(hierarchical_label "SD_CLK"
 		(shape output)

@@ -2233,72 +2233,6 @@
 		)
 		(uuid "f739507d-1039-4007-8fb1-c8da66f7dfc9")
 	)
-	(global_label "RGB_B"
-		(shape input)
-		(at 52.07 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4d714a49-73e9-43af-aa1d-72f5fcc03bf4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.0372 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RGB_G"
-		(shape input)
-		(at 52.07 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4d714a49-73e9-43af-aa1d-72f5fcc03bf5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.0372 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RGB_R"
-		(shape input)
-		(at 52.07 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4d714a49-73e9-43af-aa1d-72f5fcc03bf6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.0372 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(hierarchical_label "SD_CLK"
 		(shape input)
 		(at 196.85 87.63 180)
@@ -2320,6 +2254,28 @@
 			(justify right)
 		)
 		(uuid "1a1a65b6-95fb-4465-a5f7-2aeb75cb38ae")
+	)
+	(hierarchical_label "RGB_R"
+		(shape input)
+		(at 52.07 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "29b5e714-53e6-44ab-b5e9-0bae18ce89c1")
+	)
+	(hierarchical_label "RGB_G"
+		(shape input)
+		(at 52.07 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "29b5e714-53e6-44ab-b5e9-0bae18ce89c1")
 	)
 	(hierarchical_label "SD_DAT1"
 		(shape bidirectional)
@@ -2353,6 +2309,17 @@
 			(justify left)
 		)
 		(uuid "5d7a4a0d-ddc1-4cd5-86c5-a17dcbfb120b")
+	)
+	(hierarchical_label "RGB_B"
+		(shape input)
+		(at 52.07 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "69ee8d1f-c73c-4f47-bcc6-2db93483f6f2")
 	)
 	(hierarchical_label "SD_DAT2"
 		(shape bidirectional)
