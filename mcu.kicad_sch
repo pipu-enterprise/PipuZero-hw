@@ -1633,7 +1633,7 @@
 		(uuid "139c2998-8b18-4a67-9ee6-d9f66d82175b")
 	)
 	(hierarchical_label "RGB_B"
-		(shape input)
+		(shape output)
 		(at 165.1 74.93 0)
 		(effects
 			(font
@@ -1644,7 +1644,7 @@
 		(uuid "3921a94f-cc22-4a3c-813c-3dbabc5c3e5b")
 	)
 	(hierarchical_label "RGB_R"
-		(shape input)
+		(shape output)
 		(at 165.1 85.09 0)
 		(effects
 			(font
@@ -1655,7 +1655,7 @@
 		(uuid "3c036650-1959-401a-949d-2edcc64c9552")
 	)
 	(hierarchical_label "BUZZER"
-		(shape input)
+		(shape output)
 		(at 165.1 97.79 0)
 		(effects
 			(font
@@ -1820,7 +1820,7 @@
 		(uuid "957b716f-832e-4049-81d5-fe482eff32c6")
 	)
 	(hierarchical_label "RGB_G"
-		(shape input)
+		(shape output)
 		(at 165.1 77.47 0)
 		(effects
 			(font
