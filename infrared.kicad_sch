@@ -948,7 +948,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03e99579-f42e-4f21-a596-f8f7d4e9209c")
-		(property "Reference" "D1"
+		(property "Reference" "D4"
 			(at 100.584 85.344 0)
 			(effects
 				(font
@@ -1009,7 +1009,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/4b0b0d5d-6833-4670-bedb-8ac2688b21e7"
-					(reference "D1")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -1024,7 +1024,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "58a4c835-e82d-4d22-b88c-002b991d5695")
-		(property "Reference" "R4"
+		(property "Reference" "R11"
 			(at 91.44 74.93 90)
 			(effects
 				(font
@@ -1040,7 +1040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 91.44 81.788 90)
 			(effects
 				(font
@@ -1076,7 +1076,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/4b0b0d5d-6833-4670-bedb-8ac2688b21e7"
-					(reference "R4")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -1092,7 +1092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b26b7ab-2a02-41fe-947a-f36205ad51f9")
-		(property "Reference" "IC1"
+		(property "Reference" "IC2"
 			(at 90.17 53.3401 0)
 			(effects
 				(font
@@ -1224,7 +1224,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/4b0b0d5d-6833-4670-bedb-8ac2688b21e7"
-					(reference "IC1")
+					(reference "IC2")
 					(unit 1)
 				)
 			)
@@ -1239,7 +1239,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ed89223-3d07-4b74-9618-f13fb1e2cf46")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR017"
 			(at 128.27 49.53 0)
 			(effects
 				(font
@@ -1289,7 +1289,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/4b0b0d5d-6833-4670-bedb-8ac2688b21e7"
-					(reference "#PWR025")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -1304,7 +1304,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94badd74-68c0-4eb3-b492-f384a0e0a0bd")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR018"
 			(at 128.27 63.5 0)
 			(effects
 				(font
@@ -1354,7 +1354,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/4b0b0d5d-6833-4670-bedb-8ac2688b21e7"
-					(reference "#PWR026")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -1369,7 +1369,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fed790fe-b524-4812-973e-99e99f746341")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR016"
 			(at 109.22 87.63 0)
 			(effects
 				(font
@@ -1419,7 +1419,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/4b0b0d5d-6833-4670-bedb-8ac2688b21e7"
-					(reference "#PWR027")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)

@@ -4472,7 +4472,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0064a8df-230c-4ffc-b00a-9be9cf7c7880")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 92.202 116.078 90)
 			(effects
 				(font
@@ -4490,7 +4490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Horizontal"
 			(at 86.36 119.38 0)
 			(effects
 				(font
@@ -4550,7 +4550,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -4565,7 +4565,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04daf29f-8f00-4fd2-8af7-5ac22522a0d8")
-		(property "Reference" "R9"
+		(property "Reference" "R14"
 			(at 160.02 110.236 90)
 			(effects
 				(font
@@ -4582,7 +4582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 111.76 0)
 			(effects
 				(font
@@ -4618,7 +4618,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R9")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -4633,7 +4633,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "11a78086-fb9b-4106-a9a9-e6bd2f8d42a1")
-		(property "Reference" "R2"
+		(property "Reference" "R21"
 			(at 170.18 59.944 90)
 			(effects
 				(font
@@ -4649,7 +4649,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 170.18 66.548 90)
 			(effects
 				(font
@@ -4685,7 +4685,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R2")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -4701,7 +4701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c4da6e0-9967-4579-99a3-bee97e1454ab")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR043"
 			(at 219.71 123.19 0)
 			(effects
 				(font
@@ -4751,7 +4751,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR028")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -4766,7 +4766,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1e632f10-bcb7-45c9-9a75-832593c99efc")
-		(property "Reference" "R6"
+		(property "Reference" "R24"
 			(at 200.406 114.046 90)
 			(effects
 				(font
@@ -4782,7 +4782,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 113.538 90)
 			(effects
 				(font
@@ -4818,7 +4818,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R6")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -4833,7 +4833,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29606a51-edc0-4e4d-8bf0-6362a9e35933")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR031"
 			(at 80.01 111.76 0)
 			(effects
 				(font
@@ -4883,7 +4883,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR030")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -4898,7 +4898,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2b73c425-1b0f-4d70-b195-aa7caae7e961")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR032"
 			(at 80.01 139.7 0)
 			(effects
 				(font
@@ -4948,7 +4948,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR031")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -4963,7 +4963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e8f20b7-6431-4cf9-b9cd-8d75bdbec6ea")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR040"
 			(at 196.85 144.78 0)
 			(effects
 				(font
@@ -5013,7 +5013,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR029")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -5028,7 +5028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f9a6b76-64dd-4bc1-b07a-c4a16e55b66f")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR030"
 			(at 68.58 80.01 0)
 			(effects
 				(font
@@ -5078,7 +5078,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR017")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -5093,7 +5093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "353952f7-63c3-4ae8-9086-0bf69cb9695b")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 111.76 137.16 0)
 			(effects
 				(font
@@ -5143,7 +5143,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -5158,7 +5158,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36b501e8-230e-4573-aa12-d29e6560bd66")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR037"
 			(at 148.59 86.36 0)
 			(effects
 				(font
@@ -5208,7 +5208,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR022")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -5223,7 +5223,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "42a126a7-dd02-49fb-a31e-ff35815c5d77")
-		(property "Reference" "D4"
+		(property "Reference" "D6"
 			(at 132.08 127.508 0)
 			(effects
 				(font
@@ -5289,7 +5289,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "D4")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -5304,7 +5304,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4eda8926-ea65-462e-b578-0027c68ac3ca")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR042"
 			(at 213.36 87.63 0)
 			(effects
 				(font
@@ -5354,7 +5354,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR019")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -5370,7 +5370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52bf8005-0869-40b8-9bcf-f4cd17048627")
-		(property "Reference" "U5"
+		(property "Reference" "U6"
 			(at 199.39 59.69 0)
 			(effects
 				(font
@@ -5549,7 +5549,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "U5")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -5564,7 +5564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "56912bf5-f6a9-429a-9bc2-40831c1c1fce")
-		(property "Reference" "D3"
+		(property "Reference" "D5"
 			(at 113.03 127.508 0)
 			(effects
 				(font
@@ -5630,7 +5630,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "D3")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -5645,7 +5645,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5b04ac56-b5aa-4b95-b2c3-cc803ecbf2a2")
-		(property "Reference" "R13"
+		(property "Reference" "R18"
 			(at 160.02 125.476 90)
 			(effects
 				(font
@@ -5662,7 +5662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 127 0)
 			(effects
 				(font
@@ -5698,7 +5698,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R13")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -5713,7 +5713,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "69586ca9-eea2-480b-9767-f9e4574199f6")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR036"
 			(at 148.59 67.31 0)
 			(effects
 				(font
@@ -5763,7 +5763,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR021")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -5778,7 +5778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "797c93e6-2191-4a4b-9a6e-b7a021f82204")
-		(property "Reference" "R11"
+		(property "Reference" "R16"
 			(at 160.02 117.856 90)
 			(effects
 				(font
@@ -5795,7 +5795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 119.38 0)
 			(effects
 				(font
@@ -5831,7 +5831,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R11")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -5914,7 +5914,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d7358ed-5059-4342-ac9c-f9a7dd7ea87b")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR041"
 			(at 213.36 69.85 0)
 			(effects
 				(font
@@ -5964,7 +5964,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR020")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -5979,7 +5979,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9236cfa7-e0dc-45ba-9aad-7eef9e9df779")
-		(property "Reference" "R5"
+		(property "Reference" "R23"
 			(at 201.93 101.854 90)
 			(effects
 				(font
@@ -5995,7 +5995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 108.458 90)
 			(effects
 				(font
@@ -6031,7 +6031,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R5")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -6116,7 +6116,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a3da617-d713-4437-8449-97975669a0f7")
-		(property "Reference" "R3"
+		(property "Reference" "R22"
 			(at 170.18 78.994 90)
 			(effects
 				(font
@@ -6132,7 +6132,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 170.18 85.598 90)
 			(effects
 				(font
@@ -6168,7 +6168,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R3")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -6183,7 +6183,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a078d2d6-a375-412c-a7c4-9266fc8f9dec")
-		(property "Reference" "R10"
+		(property "Reference" "R15"
 			(at 160.02 114.046 90)
 			(effects
 				(font
@@ -6200,7 +6200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 115.57 0)
 			(effects
 				(font
@@ -6236,7 +6236,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R10")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -6251,7 +6251,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ac84b6dc-fe20-4d13-b859-d51d51210c58")
-		(property "Reference" "R7"
+		(property "Reference" "R25"
 			(at 201.93 119.126 90)
 			(effects
 				(font
@@ -6267,7 +6267,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 118.618 90)
 			(effects
 				(font
@@ -6303,7 +6303,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R7")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -6318,7 +6318,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae51f42a-d6aa-4d52-8216-88a1bc7c180d")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR029"
 			(at 68.58 69.85 0)
 			(effects
 				(font
@@ -6368,7 +6368,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR016")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -6383,7 +6383,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b0c1403b-98da-4f25-97b2-ea9833851499")
-		(property "Reference" "D2"
+		(property "Reference" "D7"
 			(at 212.09 99.06 0)
 			(effects
 				(font
@@ -6447,7 +6447,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "D2")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -6462,7 +6462,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2f9ea1a-6d32-4c58-96f8-fb102a1ef904")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR039"
 			(at 176.53 91.44 0)
 			(effects
 				(font
@@ -6512,7 +6512,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR024")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -6595,7 +6595,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb1885e7-ff06-4073-956c-e9f4d679a411")
-		(property "Reference" "R12"
+		(property "Reference" "R17"
 			(at 160.02 121.666 90)
 			(effects
 				(font
@@ -6612,7 +6612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 123.19 0)
 			(effects
 				(font
@@ -6648,7 +6648,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R12")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -6663,7 +6663,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc8ed6c6-d3e9-45f3-a53d-c7b0bfc049af")
-		(property "Reference" "R15"
+		(property "Reference" "R20"
 			(at 160.02 133.096 90)
 			(effects
 				(font
@@ -6680,7 +6680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 134.62 0)
 			(effects
 				(font
@@ -6716,7 +6716,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R15")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -6731,7 +6731,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcfb499b-daca-4a91-b112-2bd503a7d6b6")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR035"
 			(at 132.08 90.17 0)
 			(effects
 				(font
@@ -6781,7 +6781,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR018")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -6797,7 +6797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c34a80fb-8c0d-4bfc-b93b-44d1725b5ab9")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 111.125 48.26 0)
 			(effects
 				(font
@@ -6873,7 +6873,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -6888,7 +6888,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f07df7b7-324a-4853-8e68-6edccf045b5f")
-		(property "Reference" "R8"
+		(property "Reference" "R13"
 			(at 160.02 106.426 90)
 			(effects
 				(font
@@ -6905,7 +6905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 107.95 0)
 			(effects
 				(font
@@ -6941,7 +6941,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R8")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -6956,7 +6956,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f520982d-b617-409c-9479-00bac035dd97")
-		(property "Reference" "R14"
+		(property "Reference" "R19"
 			(at 160.02 129.286 90)
 			(effects
 				(font
@@ -6973,7 +6973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 160.02 130.81 0)
 			(effects
 				(font
@@ -7009,7 +7009,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "R14")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -7024,7 +7024,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5efe03b-96e8-48f6-9b8f-a7818e9df031")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR038"
 			(at 176.53 72.39 0)
 			(effects
 				(font
@@ -7074,7 +7074,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR023")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -7089,7 +7089,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8c3c15e-eab5-4182-ae92-c1f95fb8c7ab")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR034"
 			(at 130.81 137.16 0)
 			(effects
 				(font
@@ -7139,7 +7139,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/1a9a8b3a-0ac6-451f-bc78-9d7f4c721b98"
-					(reference "#PWR033")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)

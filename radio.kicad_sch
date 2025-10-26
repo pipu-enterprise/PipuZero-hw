@@ -2927,7 +2927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12cd3f81-587c-4f01-9516-0587cad10bce")
-		(property "Reference" "U2"
+		(property "Reference" "U5"
 			(at 107.3786 96.52 0)
 			(effects
 				(font
@@ -3119,7 +3119,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "U2")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -3134,7 +3134,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1be2ceb0-26de-4e27-b3fc-9685db85b755")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR022"
 			(at 95.25 116.84 0)
 			(effects
 				(font
@@ -3184,7 +3184,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR06")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -3199,7 +3199,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29295d81-a2cd-47f7-81fd-bef1bbf9707f")
-		(property "Reference" "C6"
+		(property "Reference" "C7"
 			(at 62.23 142.24 0)
 			(effects
 				(font
@@ -3217,7 +3217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.6552 147.32 0)
 			(effects
 				(font
@@ -3253,7 +3253,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C6")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -3268,7 +3268,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29f874fb-ca59-421f-9d55-18acac7a22c1")
-		(property "Reference" "C9"
+		(property "Reference" "C10"
 			(at 88.9 142.24 0)
 			(effects
 				(font
@@ -3286,7 +3286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 87.3252 147.32 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C9")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -3338,7 +3338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cb7fb99-0abf-4c32-8ee4-166edbd4b177")
-		(property "Reference" "C12"
+		(property "Reference" "C16"
 			(at 171.45 126.9999 0)
 			(effects
 				(font
@@ -3356,7 +3356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 168.6052 132.08 0)
 			(effects
 				(font
@@ -3392,7 +3392,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C12")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -3407,7 +3407,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "33d28b2e-fa02-4e6d-bb9a-d94af2754187")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR019"
 			(at 59.69 140.97 0)
 			(effects
 				(font
@@ -3457,7 +3457,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR010")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -3472,7 +3472,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "378a48c2-bfdf-410e-9ca0-35a070b64a96")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR023"
 			(at 129.54 105.41 0)
 			(effects
 				(font
@@ -3522,7 +3522,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR08")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -3605,7 +3605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "391712ee-2d9c-41f9-8918-d95f7d8cb281")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR028"
 			(at 207.01 154.94 0)
 			(effects
 				(font
@@ -3656,7 +3656,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR015")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -3672,7 +3672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39633169-8c69-41c4-ac18-0d8a8ef4f2e1")
-		(property "Reference" "C15"
+		(property "Reference" "C19"
 			(at 210.82 142.2399 0)
 			(effects
 				(font
@@ -3690,7 +3690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 207.9752 147.32 0)
 			(effects
 				(font
@@ -3726,7 +3726,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C15")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -3811,7 +3811,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48128e92-9782-459f-9345-daa9a4762265")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR020"
 			(at 59.69 156.21 0)
 			(effects
 				(font
@@ -3861,7 +3861,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR011")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -3876,7 +3876,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "509b4ae8-dbef-4352-a421-8fff078929a4")
-		(property "Reference" "C7"
+		(property "Reference" "C8"
 			(at 71.12 142.24 0)
 			(effects
 				(font
@@ -3894,7 +3894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 69.5452 147.32 0)
 			(effects
 				(font
@@ -3930,7 +3930,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C7")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -3945,7 +3945,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51bb7a1d-ae97-4787-8766-31a62f8a740a")
-		(property "Reference" "C4"
+		(property "Reference" "C14"
 			(at 129.032 144.78 0)
 			(effects
 				(font
@@ -3963,7 +3963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127 146.05 0)
 			(effects
 				(font
@@ -3999,7 +3999,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C4")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -4015,7 +4015,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55da4829-d3fa-4c62-9642-38e0a44836e3")
-		(property "Reference" "L4"
+		(property "Reference" "L5"
 			(at 200.66 132.08 90)
 			(effects
 				(font
@@ -4067,7 +4067,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "L4")
+					(reference "L5")
 					(unit 1)
 				)
 			)
@@ -4083,7 +4083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64e020c5-e216-49b6-b900-f0abbb3f4c71")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR026"
 			(at 167.64 157.48 0)
 			(effects
 				(font
@@ -4134,7 +4134,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR013")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -4149,7 +4149,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6ebacf88-0362-4f05-8e1e-9a8e8020354d")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR024"
 			(at 134.62 156.21 0)
 			(effects
 				(font
@@ -4199,7 +4199,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR07")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -4214,7 +4214,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7986374d-975e-4251-8c23-f0a5803041fd")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR021"
 			(at 90.17 59.69 0)
 			(effects
 				(font
@@ -4264,7 +4264,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR09")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -4280,7 +4280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8039efa5-3f17-40ce-8fb1-f8598d39fd0d")
-		(property "Reference" "C16"
+		(property "Reference" "C20"
 			(at 213.36 129.54 90)
 			(effects
 				(font
@@ -4296,7 +4296,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 217.17 136.1948 0)
 			(effects
 				(font
@@ -4332,7 +4332,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C16")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -4347,7 +4347,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c71316f-2b2e-4857-b415-cf74c31d7eef")
-		(property "Reference" "C5"
+		(property "Reference" "C15"
 			(at 144.272 144.78 0)
 			(effects
 				(font
@@ -4365,7 +4365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 142.24 146.05 0)
 			(effects
 				(font
@@ -4401,7 +4401,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C5")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -4484,7 +4484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96c86819-4f01-432f-95e5-833139e9d8a1")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR027"
 			(at 194.31 154.94 0)
 			(effects
 				(font
@@ -4535,7 +4535,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR014")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -4551,7 +4551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a322d525-8d3a-4943-9efa-c084464ba744")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR025"
 			(at 162.56 130.81 0)
 			(effects
 				(font
@@ -4602,7 +4602,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "#PWR012")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -4618,7 +4618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a39ba709-ae91-41bd-9cd7-56bbb1f016ad")
-		(property "Reference" "R1"
+		(property "Reference" "R12"
 			(at 132.08 92.7099 0)
 			(effects
 				(font
@@ -4636,7 +4636,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 127.762 93.98 90)
 			(effects
 				(font
@@ -4672,7 +4672,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "R1")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -4688,7 +4688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a946bf43-d6f7-4482-bdc0-15b25c384341")
-		(property "Reference" "L1"
+		(property "Reference" "L3"
 			(at 177.8 129.54 90)
 			(effects
 				(font
@@ -4740,7 +4740,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "L1")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -4756,7 +4756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd1ed8a8-801c-42a3-af55-a93844c022c1")
-		(property "Reference" "C14"
+		(property "Reference" "C18"
 			(at 198.12 142.2399 0)
 			(effects
 				(font
@@ -4774,7 +4774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 195.2752 147.32 0)
 			(effects
 				(font
@@ -4810,7 +4810,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C14")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -4826,7 +4826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c465493b-5074-435b-b72b-e32f7e1b7d2e")
-		(property "Reference" "L3"
+		(property "Reference" "L4"
 			(at 187.96 132.08 90)
 			(effects
 				(font
@@ -4878,7 +4878,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "L3")
+					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -4893,7 +4893,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4e2e509-72a4-4405-8d84-54112ace3963")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 80.01 142.24 0)
 			(effects
 				(font
@@ -4911,7 +4911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 78.4352 147.32 0)
 			(effects
 				(font
@@ -4947,7 +4947,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C8")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -4962,7 +4962,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb9a2f17-7cea-4054-927a-3fcd43405fd2")
-		(property "Reference" "C10"
+		(property "Reference" "C12"
 			(at 97.79 142.24 0)
 			(effects
 				(font
@@ -4980,7 +4980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 96.2152 147.32 0)
 			(effects
 				(font
@@ -5016,7 +5016,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -5031,7 +5031,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db10a20f-1c6b-4246-8af3-1e486e866754")
-		(property "Reference" "C3"
+		(property "Reference" "C11"
 			(at 89.916 103.124 0)
 			(effects
 				(font
@@ -5049,7 +5049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 96.2152 107.95 0)
 			(effects
 				(font
@@ -5085,7 +5085,7 @@
 		(instances
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C3")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -5100,7 +5100,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8b0f9f8-540d-4327-a067-8cba3cb6a56e")
-		(property "Reference" "C13"
+		(property "Reference" "C17"
 			(at 177.8 143.51 90)
 			(effects
 				(font
@@ -5116,7 +5116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 181.61 138.7348 0)
 			(effects
 				(font
@@ -5152,7 +5152,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C13")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -5167,7 +5167,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc462dfc-bd23-4af9-9ec5-1a431284439c")
-		(property "Reference" "C11"
+		(property "Reference" "C13"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -5185,7 +5185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 105.1052 147.32 0)
 			(effects
 				(font
@@ -5221,7 +5221,7 @@
 		(instances
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/0d11e703-01d4-42f6-b6d1-2a98bd387429"
-					(reference "C11")
+					(reference "C13")
 					(unit 1)
 				)
 			)
