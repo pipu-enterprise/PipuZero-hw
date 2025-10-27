@@ -6813,7 +6813,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "microsd:TF-SMD_A-MICROTF-1.85A"
 			(at 162.56 52.07 0)
 			(effects
 				(font

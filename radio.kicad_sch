@@ -3058,7 +3058,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CC1101:QLP20"
+		(property "Footprint" "cc1101:QLP20"
 			(at 100.33 78.74 0)
 			(effects
 				(font
@@ -3806,7 +3806,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 167.64 146.05 0)
 			(effects
 				(font
@@ -4077,7 +4077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 200.66 137.16 0)
 			(effects
 				(font
@@ -4750,7 +4750,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 177.8 134.62 0)
 			(effects
 				(font
@@ -4953,7 +4953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 187.96 137.16 0)
 			(effects
 				(font

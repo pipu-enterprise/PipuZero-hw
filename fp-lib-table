@@ -8,4 +8,5 @@
   (lib (name "BUZZER")(type "KiCad")(uri "${KIPRJMOD}/libs/BUZZER")(options "")(descr ""))
   (lib (name "CPT-9019S-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/libs/CPT-9019S-SMT-TR")(options "")(descr ""))
   (lib (name "USBC")(type "KiCad")(uri "${KIPRJMOD}/libs/USBC")(options "")(descr ""))
+  (lib (name "microsd")(type "KiCad")(uri "${KIPRJMOD}/libs/MICROSD/microsd.pretty")(options "")(descr ""))
 )
