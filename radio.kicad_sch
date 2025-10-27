@@ -3797,7 +3797,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "27nH"
 			(at 168.91 147.3199 0)
 			(effects
 				(font
@@ -4069,7 +4069,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "27nH"
 			(at 200.66 134.62 90)
 			(effects
 				(font
@@ -4742,7 +4742,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "27nH"
 			(at 177.8 132.08 90)
 			(effects
 				(font
@@ -4945,7 +4945,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "22nH"
 			(at 187.96 134.62 90)
 			(effects
 				(font

@@ -5863,7 +5863,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithoutStem"
 			(at 158.75 78.74 0)
 			(effects
 				(font
@@ -6065,7 +6065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:Buzzer_CUI_CPT-9019S-SMT"
 			(at 205.105 133.35 90)
 			(effects
 				(font
@@ -6544,7 +6544,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithoutStem"
 			(at 158.75 59.69 0)
 			(effects
 				(font
