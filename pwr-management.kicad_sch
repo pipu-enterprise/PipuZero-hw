@@ -3702,7 +3702,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "BQ25176J:SON50P200X200X80-9N"
 			(at 99.06 205.41 0)
 			(effects
 				(font
@@ -4255,7 +4255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 104.14 127 0)
 			(effects
 				(font
@@ -4622,7 +4622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
 			(at 33.02 56.896 90)
 			(effects
 				(font
@@ -4692,7 +4692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 113.03 127 0)
 			(effects
 				(font
