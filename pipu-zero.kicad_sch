@@ -2495,7 +2495,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "USBC:HRO_TYPE-C-31-M-12"
 			(at 34.29 115.57 0)
 			(effects
 				(font

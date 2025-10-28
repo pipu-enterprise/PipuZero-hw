@@ -5,4 +5,8 @@
   (lib (name "BQ2970")(type "KiCad")(uri "${KIPRJMOD}/libs/BQ2970/footprints.pretty")(options "")(descr ""))
   (lib (name "TSOP75338TR")(type "KiCad")(uri "${KIPRJMOD}/libs/TSOP75338TR")(options "")(descr ""))
   (lib (name "BQ25176J")(type "KiCad")(uri "${KIPRJMOD}/libs/BQ25176J")(options "")(descr ""))
+  (lib (name "BUZZER")(type "KiCad")(uri "${KIPRJMOD}/libs/BUZZER")(options "")(descr ""))
+  (lib (name "CPT-9019S-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/libs/CPT-9019S-SMT-TR")(options "")(descr ""))
+  (lib (name "USBC")(type "KiCad")(uri "${KIPRJMOD}/libs/USBC")(options "")(descr ""))
+  (lib (name "microsd")(type "KiCad")(uri "${KIPRJMOD}/libs/MICROSD/microsd.pretty")(options "")(descr ""))
 )
