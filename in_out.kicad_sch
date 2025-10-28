@@ -3931,16 +3931,6 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 102.87) (xy 109.22 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14333b3f-60fd-4bb3-8892-cdd7c4a00e8b")
-	)
-	(wire
-		(pts
 			(xy 165.1 80.01) (xy 165.1 83.82)
 		)
 		(stroke
@@ -3991,16 +3981,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 102.87) (xy 114.3 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27ef379e-d778-4814-baec-0901dbddd608")
-	)
-	(wire
-		(pts
 			(xy 163.83 83.82) (xy 165.1 83.82)
 		)
 		(stroke
@@ -4008,16 +3988,6 @@
 			(type default)
 		)
 		(uuid "296b5e68-4593-4337-9b00-3e9513abedde")
-	)
-	(wire
-		(pts
-			(xy 106.68 102.87) (xy 106.68 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a301c45-7afe-4c73-aede-31b7c01a64d7")
 	)
 	(wire
 		(pts
@@ -4081,6 +4051,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 109.22) (xy 109.22 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40da43c9-7564-4ba0-8ed6-11d1327763f1")
+	)
+	(wire
+		(pts
 			(xy 162.56 111.76) (xy 172.72 111.76)
 		)
 		(stroke
@@ -4108,6 +4088,16 @@
 			(type default)
 		)
 		(uuid "4c22fa0b-90ee-4f4d-8d9f-26b95db65e61")
+	)
+	(wire
+		(pts
+			(xy 116.84 109.22) (xy 116.84 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d7054e9-ea86-499a-9dda-08712e1e4bdf")
 	)
 	(wire
 		(pts
@@ -4371,16 +4361,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 102.87) (xy 116.84 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "934d0179-d2d0-49c4-b6d7-4955b4e1f404")
-	)
-	(wire
-		(pts
 			(xy 207.01 143.51) (xy 208.28 143.51)
 		)
 		(stroke
@@ -4641,6 +4621,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 109.22) (xy 106.68 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2a9ee2c-9629-48b7-8952-2ef1d62a6543")
+	)
+	(wire
+		(pts
 			(xy 154.94 115.57) (xy 157.48 115.57)
 		)
 		(stroke
@@ -4668,6 +4658,16 @@
 			(type default)
 		)
 		(uuid "ec8b3e7b-f3e7-4d2e-9032-a85250c56962")
+	)
+	(wire
+		(pts
+			(xy 114.3 109.22) (xy 114.3 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed9a3b42-d9d8-4da1-8b24-6e401bff9aea")
 	)
 	(wire
 		(pts
@@ -4859,46 +4859,6 @@
 		)
 		(uuid "a80c6871-7b8c-41f1-882f-f5af1360be5b")
 	)
-	(label "IO40_EXT"
-		(at 109.22 102.87 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b6294afb-6003-4e82-8d06-63a704ff461c")
-	)
-	(label "IO39_EXT"
-		(at 106.68 102.87 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b89daa9e-05e8-48d1-a86f-b718829e12c4")
-	)
-	(label "IO42_EXT"
-		(at 116.84 102.87 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c860b4c3-5bdb-4abf-bc19-2f7caf1a4067")
-	)
-	(label "IO41_EXT"
-		(at 114.3 102.87 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ca57c750-c296-4cff-af25-b092f15f9abd")
-	)
 	(label "IO39_EXT"
 		(at 67.31 120.65 0)
 		(effects
@@ -4964,6 +4924,28 @@
 		)
 		(uuid "2ee12ed6-f922-4748-b28e-8e790849930b")
 	)
+	(hierarchical_label "IO39"
+		(shape bidirectional)
+		(at 106.68 109.22 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "32ebe92a-8da6-47ce-8d1f-6826207bb419")
+	)
+	(hierarchical_label "IO42"
+		(shape bidirectional)
+		(at 116.84 109.22 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3392ca42-7b40-4de3-81be-1e6717dcaa67")
+	)
 	(hierarchical_label "SD_DAT1"
 		(shape bidirectional)
 		(at 83.82 77.47 180)
@@ -5007,6 +4989,17 @@
 			(justify left)
 		)
 		(uuid "5d7a4a0d-ddc1-4cd5-86c5-a17dcbfb120b")
+	)
+	(hierarchical_label "IO41"
+		(shape bidirectional)
+		(at 114.3 109.22 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "66cff52c-a46b-4326-8336-64298cea6052")
 	)
 	(hierarchical_label "RGB_B"
 		(shape input)
@@ -5194,6 +5187,17 @@
 			(justify left)
 		)
 		(uuid "f86d5242-3ed6-41e1-bc33-e3c1ce042d5b")
+	)
+	(hierarchical_label "IO40"
+		(shape bidirectional)
+		(at 109.22 109.22 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe8744ca-c748-4cfd-a3f1-d4b7a05b0cad")
 	)
 	(symbol
 		(lib_id "Device:R_Small")
