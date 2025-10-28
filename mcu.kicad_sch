@@ -1668,6 +1668,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 60.96) (xy 92.71 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41921f42-49c3-4fc9-b329-ea6cfa4a7f6e")
+	)
+	(wire
+		(pts
 			(xy 132.08 40.64) (xy 123.19 40.64)
 		)
 		(stroke
@@ -1868,6 +1878,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 71.12) (xy 132.08 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8de39049-0fdf-4daf-b671-392dbf498257")
+	)
+	(wire
+		(pts
 			(xy 83.82 68.58) (xy 92.71 68.58)
 		)
 		(stroke
@@ -1988,6 +2008,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 73.66) (xy 132.08 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc6ff778-213b-49cb-894c-dfe0bd1f6f55")
+	)
+	(wire
+		(pts
 			(xy 123.19 43.18) (xy 132.08 43.18)
 		)
 		(stroke
@@ -2036,6 +2066,28 @@
 			(justify right)
 		)
 		(uuid "139c2998-8b18-4a67-9ee6-d9f66d82175b")
+	)
+	(hierarchical_label "ENCODER_B"
+		(shape input)
+		(at 132.08 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2e74f242-4187-4e25-b0a3-280e3d81b5bd")
+	)
+	(hierarchical_label "ENCODER_C"
+		(shape input)
+		(at 132.08 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2e74f242-4187-4e25-b0a3-280e3d81b5bd")
 	)
 	(hierarchical_label "RGB_R"
 		(shape output)
@@ -2124,6 +2176,17 @@
 			(justify left)
 		)
 		(uuid "5592a0df-bd6f-4135-887d-21fffb0d43ab")
+	)
+	(hierarchical_label "ENCODER_A"
+		(shape input)
+		(at 83.82 60.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "638094e1-05a6-4cae-af04-9d136b76000b")
 	)
 	(hierarchical_label "IO42"
 		(shape bidirectional)
