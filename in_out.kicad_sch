@@ -3593,6 +3593,18 @@
 		(uuid 87ade79f-c670-4212-b7a9-c287a07a2785)
 	)
 	(rectangle
+		(start 63.5 147.32)
+		(end 115.57 165.1)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b5cf0827-d163-4e4f-9392-8f81d94b573a)
+	)
+	(rectangle
 		(start 186.69 129.54)
 		(end 223.52 162.56)
 		(stroke
@@ -3633,6 +3645,16 @@
 			)
 		)
 		(uuid "251c7177-8fd1-4265-a4fd-4b8240703317")
+	)
+	(text "Encoder"
+		(exclude_from_sim no)
+		(at 67.056 145.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5003d3d2-0f0e-43ad-990f-69d67bda9899")
 	)
 	(text "Oled Display 128x64"
 		(exclude_from_sim no)
@@ -3938,7 +3960,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 160.02) (xy 87.63 160.02)
+			(xy 100.33 153.67) (xy 99.06 153.67)
 		)
 		(stroke
 			(width 0)
@@ -4018,7 +4040,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 162.56) (xy 72.39 162.56)
+			(xy 67.31 156.21) (xy 83.82 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4258,7 +4280,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 163.83) (xy 52.07 162.56)
+			(xy 67.31 157.48) (xy 67.31 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4278,7 +4300,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 165.1) (xy 72.39 165.1)
+			(xy 82.55 158.75) (xy 83.82 158.75)
 		)
 		(stroke
 			(width 0)
@@ -4498,7 +4520,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 160.02) (xy 72.39 160.02)
+			(xy 82.55 153.67) (xy 83.82 153.67)
 		)
 		(stroke
 			(width 0)
@@ -4828,7 +4850,7 @@
 	)
 	(hierarchical_label "ENCODER_B"
 		(shape input)
-		(at 69.85 165.1 180)
+		(at 82.55 158.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4839,7 +4861,7 @@
 	)
 	(hierarchical_label "ENCODER_A"
 		(shape input)
-		(at 69.85 160.02 180)
+		(at 82.55 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4850,7 +4872,7 @@
 	)
 	(hierarchical_label "ENCODER_C"
 		(shape input)
-		(at 90.17 160.02 0)
+		(at 100.33 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5293,7 +5315,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 52.07 163.83 0)
+		(at 67.31 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5302,7 +5324,7 @@
 		(fields_autoplaced yes)
 		(uuid "24bb76d5-38c0-446a-95c1-8f25ca13dd3d")
 		(property "Reference" "#PWR047"
-			(at 52.07 170.18 0)
+			(at 67.31 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5311,7 +5333,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 52.07 168.91 0)
+			(at 67.31 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5319,7 +5341,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 163.83 0)
+			(at 67.31 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5328,7 +5350,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 163.83 0)
+			(at 67.31 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5337,7 +5359,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 163.83 0)
+			(at 67.31 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6274,7 +6296,7 @@
 	)
 	(symbol
 		(lib_id "encoder:encoder")
-		(at 80.01 162.56 0)
+		(at 91.44 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6283,7 +6305,7 @@
 		(fields_autoplaced yes)
 		(uuid "66c3f666-4a99-4bb9-8f85-20aa95930cad")
 		(property "Reference" "U8"
-			(at 80.01 162.56 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6292,7 +6314,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 80.01 154.94 0)
+			(at 91.44 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6300,7 +6322,7 @@
 			)
 		)
 		(property "Footprint" "Encoder:encoder"
-			(at 80.01 162.56 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6309,7 +6331,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 162.56 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6318,7 +6340,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 80.01 162.56 0)
+			(at 91.44 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
