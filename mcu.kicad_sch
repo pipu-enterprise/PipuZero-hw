@@ -2056,6 +2056,16 @@
 		)
 		(uuid "f76bfbb5-df00-49cd-aad9-a22dbdce2a34")
 	)
+	(label "LUIGI"
+		(at 139.7 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4d65a46f-044e-48a2-93db-d2d0c2e2cb74")
+	)
 	(hierarchical_label "BTN2"
 		(shape input)
 		(at 83.82 45.72 180)
@@ -2102,12 +2112,12 @@
 	)
 	(hierarchical_label "RGB_B"
 		(shape output)
-		(at 132.08 38.1 0)
+		(at 83.82 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "3921a94f-cc22-4a3c-813c-3dbabc5c3e5b")
 	)
@@ -2201,7 +2211,7 @@
 	)
 	(hierarchical_label "SD_CLK"
 		(shape output)
-		(at 83.82 58.42 180)
+		(at 83.82 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2256,7 +2266,7 @@
 	)
 	(hierarchical_label "SD_DAT0"
 		(shape bidirectional)
-		(at 83.82 48.26 180)
+		(at 83.82 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2289,7 +2299,7 @@
 	)
 	(hierarchical_label "CC1101_GDO2"
 		(shape input)
-		(at 83.82 76.2 180)
+		(at 83.82 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2300,7 +2310,7 @@
 	)
 	(hierarchical_label "SD_DAT3"
 		(shape bidirectional)
-		(at 83.82 40.64 180)
+		(at 83.82 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2311,18 +2321,18 @@
 	)
 	(hierarchical_label "SD_DAT2"
 		(shape bidirectional)
-		(at 83.82 55.88 180)
+		(at 132.08 38.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "acee04a1-9ed7-4ef7-91f6-0f9b8b498dec")
 	)
 	(hierarchical_label "SD_CMD"
 		(shape output)
-		(at 83.82 43.18 180)
+		(at 83.82 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2388,7 +2398,7 @@
 	)
 	(hierarchical_label "SD_DET"
 		(shape input)
-		(at 83.82 53.34 180)
+		(at 83.82 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2421,7 +2431,7 @@
 	)
 	(hierarchical_label "CC1101_GDO0"
 		(shape bidirectional)
-		(at 83.82 78.74 180)
+		(at 83.82 40.64 180)
 		(effects
 			(font
 				(size 1.27 1.27)

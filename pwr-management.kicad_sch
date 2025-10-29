@@ -2791,6 +2791,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 106.68) (xy 187.96 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24a919ca-cb92-49fd-a796-058fb297f2b8")
+	)
+	(wire
+		(pts
 			(xy 109.22 80.01) (xy 115.57 80.01)
 		)
 		(stroke
@@ -2838,6 +2848,16 @@
 			(type default)
 		)
 		(uuid "2e84f7a6-a3bb-4840-9aa9-632e47ff576d")
+	)
+	(wire
+		(pts
+			(xy 166.37 106.68) (xy 176.53 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30307ec3-1fa8-4b78-801c-c9fd2c188a44")
 	)
 	(wire
 		(pts
@@ -2938,6 +2958,16 @@
 			(type default)
 		)
 		(uuid "4cbf8063-92f8-43be-aa49-e0be2c640b29")
+	)
+	(wire
+		(pts
+			(xy 184.15 106.68) (xy 187.96 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e233102-7763-447f-a3e1-a88d9d58d236")
 	)
 	(wire
 		(pts
@@ -3669,6 +3699,16 @@
 		)
 		(uuid "6e1f83aa-a89d-44da-842a-31a07f46684e")
 	)
+	(label "BAT_NTC"
+		(at 166.37 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81a91470-dbc0-424b-88d1-16bb7f3b67bb")
+	)
 	(label "BAT-"
 		(at 149.86 115.57 180)
 		(effects
@@ -3905,6 +3945,73 @@
 			(project ""
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/ab6e6673-c97f-4978-8f9b-ae71c723cdfa"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 180.34 106.68 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "11ce67df-365e-43ad-ad2e-02c8952fd726")
+		(property "Reference" "R19"
+			(at 180.34 101.854 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 180.34 104.394 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 108.458 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 180.34 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 180.34 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6554d9d9-e013-46c7-b333-d6ce2b7ddd33")
+		)
+		(pin "1"
+			(uuid "5ec98eaa-f1be-40b4-ba9f-77533cce60af")
+		)
+		(instances
+			(project ""
+				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/ab6e6673-c97f-4978-8f9b-ae71c723cdfa"
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -5425,6 +5532,72 @@
 			(project "pipu-zero"
 				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/ab6e6673-c97f-4978-8f9b-ae71c723cdfa"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 187.96 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aad3077e-073a-465f-a3f6-543b78308d48")
+		(property "Reference" "#PWR048"
+			(at 187.96 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 187.96 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 187.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c3814d5e-20e0-4349-8d0c-e2d44bd9dfdf")
+		)
+		(instances
+			(project ""
+				(path "/3130e1f2-bde1-4b12-bd54-0e1e50bd36da/ab6e6673-c97f-4978-8f9b-ae71c723cdfa"
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)

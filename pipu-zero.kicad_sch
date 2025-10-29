@@ -3578,7 +3578,7 @@
 				(justify right)
 			)
 		)
-		(pin "RGB_B" output
+		(pin "RGB_R" output
 			(at 208.28 107.95 0)
 			(uuid "5f4d8df6-8774-4a17-b2dc-5006ca9431bd")
 			(effects
@@ -3598,7 +3598,7 @@
 				(justify right)
 			)
 		)
-		(pin "RGB_R" output
+		(pin "RGB_B" output
 			(at 208.28 113.03 0)
 			(uuid "3f893734-5956-42fb-a665-2070efda8392")
 			(effects
