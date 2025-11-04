@@ -4760,7 +4760,7 @@
 		(uuid "0cd78f0d-b816-48df-8d1f-69e2a6fdf70e")
 	)
 	(label "TXD0_EXT"
-		(at 67.31 123.19 0)
+		(at 67.31 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4790,7 +4790,7 @@
 		(uuid "23acb5d5-762e-4de4-bb13-a87f14cd2613")
 	)
 	(label "IO40_EXT"
-		(at 67.31 118.11 0)
+		(at 67.31 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4810,7 +4810,7 @@
 		(uuid "4b044931-9cd0-445c-a8ab-dd0f36a6c016")
 	)
 	(label "IO42_EXT"
-		(at 67.31 113.03 0)
+		(at 67.31 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4820,7 +4820,7 @@
 		(uuid "6020fc03-b423-4b11-926e-dda78d870947")
 	)
 	(label "RXD0_EXT"
-		(at 67.31 125.73 0)
+		(at 67.31 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4840,7 +4840,7 @@
 		(uuid "7e6b5d1e-2ee3-4aba-ae0b-bbc4393370b7")
 	)
 	(label "IO41_EXT"
-		(at 67.31 115.57 0)
+		(at 67.31 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4860,7 +4860,7 @@
 		(uuid "a80c6871-7b8c-41f1-882f-f5af1360be5b")
 	)
 	(label "IO39_EXT"
-		(at 67.31 120.65 0)
+		(at 67.31 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
