@@ -3321,7 +3321,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 62.23 144.78 0)
 			(effects
 				(font
@@ -3390,7 +3390,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 88.9 144.78 0)
 			(effects
 				(font
@@ -3460,7 +3460,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "3.9p"
 			(at 171.45 129.5399 0)
 			(effects
 				(font
@@ -3727,7 +3727,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "5.6p"
 			(at 210.82 144.7799 0)
 			(effects
 				(font
@@ -3931,7 +3931,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 71.12 144.78 0)
 			(effects
 				(font
@@ -4000,7 +4000,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "14p"
 			(at 117.602 147.828 0)
 			(effects
 				(font
@@ -4334,7 +4334,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "220p"
 			(at 213.36 132.08 90)
 			(effects
 				(font
@@ -4402,7 +4402,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "14p"
 			(at 144.272 147.32 0)
 			(effects
 				(font
@@ -4673,7 +4673,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "56k"
 			(at 132.08 95.2499 0)
 			(effects
 				(font
@@ -4876,7 +4876,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "8.2p"
 			(at 198.12 144.7799 0)
 			(effects
 				(font
@@ -5013,7 +5013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 80.01 144.78 0)
 			(effects
 				(font
@@ -5082,7 +5082,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 97.79 144.78 0)
 			(effects
 				(font
@@ -5150,7 +5150,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal_GND23"
+		(property "Value" "X322526MMB4SI"
 			(at 143.256 136.906 0)
 			(effects
 				(font
@@ -5224,7 +5224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 89.916 105.664 0)
 			(effects
 				(font
@@ -5292,7 +5292,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "3.9p"
 			(at 177.8 146.05 90)
 			(effects
 				(font
@@ -5360,7 +5360,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 106.68 144.78 0)
 			(effects
 				(font

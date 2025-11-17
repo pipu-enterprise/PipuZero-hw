@@ -2360,7 +2360,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "5.1k"
 			(at 50.8 102.87 90)
 			(effects
 				(font
@@ -2428,7 +2428,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "5.1k"
 			(at 50.8 105.41 90)
 			(effects
 				(font
