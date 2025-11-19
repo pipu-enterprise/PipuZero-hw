@@ -5468,7 +5468,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "100R"
 			(at 160.02 109.22 90)
 			(effects
 				(font
@@ -5623,7 +5623,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 170.18 62.484 90)
 			(effects
 				(font
@@ -5683,15 +5683,15 @@
 		(dnp no)
 		(uuid "1e632f10-bcb7-45c9-9a75-832593c99efc")
 		(property "Reference" "R24"
-			(at 194.056 114.046 90)
+			(at 195.58 109.728 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 197.104 114.046 90)
+		(property "Value" "100"
+			(at 195.58 114.046 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6738,7 +6738,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "100R"
 			(at 160.02 124.46 90)
 			(effects
 				(font
@@ -6946,7 +6946,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "100R"
 			(at 160.02 116.84 90)
 			(effects
 				(font
@@ -7281,7 +7281,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 195.58 104.394 90)
 			(effects
 				(font
@@ -7418,7 +7418,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "20k"
 			(at 170.18 81.534 90)
 			(effects
 				(font
@@ -7485,7 +7485,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "100R"
 			(at 160.02 113.03 90)
 			(effects
 				(font
@@ -7553,7 +7553,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 195.58 121.666 90)
 			(effects
 				(font
@@ -7897,7 +7897,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "100R"
 			(at 160.02 120.65 90)
 			(effects
 				(font
@@ -7967,7 +7967,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 69.85 71.1199 0)
 			(effects
 				(font
@@ -8324,7 +8324,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "100"
 			(at 160.02 105.41 90)
 			(effects
 				(font

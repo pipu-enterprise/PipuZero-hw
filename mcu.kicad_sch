@@ -2710,7 +2710,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 29.21 36.83 0)
 			(effects
 				(font
@@ -2779,7 +2779,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 39.37 36.83 0)
 			(effects
 				(font
